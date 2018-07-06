@@ -1,5 +1,6 @@
 # ofxRealsense
 
+![](./Real_sense.jpg)
 
 Using the librealsense library in the openframeworks platform
 
